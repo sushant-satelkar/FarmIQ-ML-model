@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FarmIQ - Agricultural Technology Platform
 
 ## Quick Start
@@ -147,3 +148,8 @@ Expected response:
 ## License
 
 [Your License Here] 
+=======
+---
+license: apache-2.0
+---
+>>>>>>> b02ba3649944387d703b4739aa3b6445904b4e31
